@@ -9,6 +9,8 @@ This week started out with a district meeting. We are part of a district of 4 el
 
 We were blown away with the teaching quality of the meeting. The district leader reviewed a talk that we all watched on the Sunday night mission-wide devotional over Zoom. It was a talk by Elder Christofferson that he gave at a mission president training some time ago.
 
+![Missionaries after district meeting](./images/3-missionaries.jpeg)
+
 ## Learning From the Missionaries
 
 At the district meeting the district discussed the talk, mixed in Preach My Gospel stuff and scriptures. It was about 45 minutes long and very well done. These young missionaries are super stars for sure. Delene and I only made 2 small comments at the end.
@@ -45,6 +47,8 @@ We had our mission repair guy go over and fix it. He reported that it was rats t
 
 We are finding that the plumbers and repair guys kind of make stuff up about why the plumbing fixtures get clogged or don't work. Who really knows. But anyway, it's now fixed.
 
+![Fixing one of the apartment sinks](./images/3-fix-sink.png)
+
 ## Apartment Hunting
 
 Friday was hot. Wait. Every day is hot, and we love it.
@@ -52,6 +56,8 @@ Friday was hot. Wait. Every day is hot, and we love it.
 We spent the morning at our desks, searching Facebook for apartments to rent. Sister Foster has asked us to find apartments for 2 sets of sister missionaries.
 
 At home, we could find an apartment easy. But here, people that rent apartments post them on Facebook. And there is usually not a location in the post. It just says apartment for rent and has a couple of pictures. So we spent several hours searching and searching.
+
+![Walking through an apartment area while looking for housing](./images/3-momwalking.png)
 
 I found what I thought were apartment buildings in one of the sisters' teaching areas, so we decided to drive there. There is no sign on the building, there is no name on the building, but a guy on a motorcycle pulled up that lived there and he gave us the landlord's phone number.
 
@@ -85,17 +91,27 @@ After the sink was fixed Elder Ostler asked if the sick missionary wanted a bles
 
 Lots of travel, lots of interaction with missionaries.
 
+![Out on the road in Urdaneta](./images/3-street-cars.png)
+
 While we were headed to Pozzorubio we saw two elders walking down a tiny road so we hailed them down. It was 2 Americans and I had put some chocolate chip cookies in our cooler so we gave them the cookies. The look on their faces was priceless. I don't think they'd had a real chocolate chip cookie for months.
+
+![Stopping for water during a busy day](./images/3-water.png)
+
+![A quick selfie while out serving](./images/3-selfie.png)
 
 ## Mother's Day
 
 Mother's Day was fantastic. Our ward had a potluck after church and that ward knows how to feed people. There was sooooo much food.
+
+![Sisters in the Santa Barbara ward on Mother's Day](./images/3-women.png)
 
 The Relief Society president dished up 2 huge plates for us and when we sat down we realized that she had put something on our plates that the Philippine people love: chicken feet. YIKES. I'm not ready to eat chicken feet yet.
 
 We loved the call with all of you yesterday, Monday morning here. It was such a joy watching all of the grandkids.
 
 We miss all of you and we love you all so much.
+
+![A windy stop by the beach](./images/3-beach.jpeg)
 
 Love,
 

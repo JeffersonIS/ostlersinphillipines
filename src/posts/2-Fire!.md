@@ -51,6 +51,10 @@ We saw the big bull statue and decided to pass straight by it and eventually mak
 
 We parked right in front of the market! What a blessing. We eventually located the vegetable market and we bought onions, garlic, mango, honeydew, mandarin oranges, and nashi pears.
 
+![The market](./images/2-market1.jpeg)
+![The market](./images/2-market2.jpeg)
+![The market](./images/2-market3.jpeg)
+
 We also found a fantastic grocery store. The one we went to yesterday was the most awful smelling place I've been in so far in the Philippines. Just absolutely repulsive. But this new place we found today was super clean and had everything, even Skippy crunchy peanut butter from the states and Mountain Dew Zero!
 
 We bought pancake mix because we're almost out and we bought a can of coconut milk so that we can make mango rice for dessert tonight.
@@ -71,19 +75,27 @@ Saturday was HOT, probably because there was a fire next door.
 
 We were doing laundry that day and putting things away. Scott went upstairs to hang up some shirts and he yells down the stairs that there is a fire. I bolt upstairs and he tells me to look out the window facing west. At first, I couldn't see anything, and then I see some smoke coming from behind the houses right across the street from our house.
 
+![Smoke rising behind the houses next door](./images/2-fire-fire0.JPG)
+
 This is not a US street. It's only about 12 feet wide. So the houses are very close. There was a lot of white smoke. Scott was getting a t-shirt on and I put on capris. As we ran down the stairs I told him to put his nametag on.
 
 When we got outside it was a bit chaotic. The women had come out from their houses and were a bit upset and they were standing around. There were a few men running around, not doing much. Scott and I went straight across the street and went down a walkway between two houses. The smoke was soooo thick.
 
 The wind changed direction and we peered over the back fence and could see the flames. We had brought our hose with us. We hooked it up to the spigot there but it barely shot water 10 feet. And it was a tiny trickle. It wasn't going to do anything.
 
+![Helping spray water through the smoke](./images/2-fire-fire3.JPG)
+
 I saw 3 big 5 gallon buckets sitting by the spigot and so I turned off the hose, unscrewed it, and put a bucket under the spigot. This was going to get more water to the fire. The bucket filled, Scott jumped the fence and took the bucket and ran toward the fire. He threw the bucket on the flames.
+
+![Flames in the tall grass behind the house](./images/2-fire-fire1.JPG)
 
 I was already looking for more spigots to fill the other buckets. I could see that the smoke was going to make it difficult for Scott to make any progress so I ran home and grabbed a kitchen towel and soaked it with water. I ran back and gave it to Scott so he could breathe through the wet towel.
 
 It was HOT and SMOKEY and so much ash was falling on us, we really looked great. Scott worked really hard throwing bucket after bucket of water on the flames that were approaching our neighbor's home.
 
 Pretty soon we heard some sirens and a few policemen showed up on motorcycles. A few minutes later, a fire truck arrived and some firemen pulled out a firehose and started dowsing the fire where Scott had been doing his best to contain.
+
+![Smoke covering the lot during the fire](./images/2-fire-fire2.JPG)
 
 Now this is not America, but oh my gosh, don't ya think it would be important no matter what country you live in, to have firehoses that are in decent shape? The firehose they were using had holes in it and water was shooting out in several places. It was almost comical.
 
@@ -109,6 +121,8 @@ It was fast Sunday and the Bishop asked us to get up to share our testimonies. S
 
 In Sunday School we followed along in Come, Follow Me. They read those passages and scriptures in English then teach in Tagalog. Occasionally the teacher will string a few sentences in English and we catch the gist.
 
+![The church building in Santa Barbara](./images/2-fire-church.JPG)
+
 Delene and I commented several times and boy, you would think we are general authorities. They seem to weight our comments very heavily and think we are something special. We were told in the MTC to be aware that the locals would view us as representing the Church from SLC, and now I see that.
 
 ## P-Day and Housing Training
@@ -131,7 +145,7 @@ We left the Carlsons' house and went to Philippines Costco. It's actually called
 
 We are currently eating mango rice that I made. OH MY GOSH, soooooooooo good.
 
-## A Quick Note
+## Our Purpose For Coming
 
 And the main reason is that we're missionaries and our focus right now is the Philippines Urdaneta Mission: the missionaries and leaders in this mission, the members in this mission, and the souls that are waiting to hear about the gospel in this mission.
 

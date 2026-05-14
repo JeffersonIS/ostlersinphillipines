@@ -9,6 +9,8 @@ We got to the airport in Manila super early Sunday morning. Going through custom
 
 Elder Burrup eventually was able to reach us and we loaded our mountain of luggage into their car. Sister Burrup brought a Philippine flag with her and she snapped a photo of us holding it. We'll send it later after she sends it to us.
 
+![With the Burrups at the Philippines Urdaneta Mission office](./images/1-burrups.png)
+
 ## Sunday in Manila
 
 We got to their apartment and Byron made eggs and toast. Then we drove to church. And wouldn't you know it, it was mostly in Tagalog. Our mission president had told us that the church was trying to emphasize English in the meetings, but maybe this ward didn't get the memo. If that holds true then we've been hoodwinked.
@@ -39,9 +41,13 @@ And then he gave us our assignments. We have 3 assignments:
 
 So we thought we were only going to be MLS missionaries, but turns out we are going to do so much more.
 
+![A first selfie after arriving in Urdaneta](./images/1-selfie1.jpeg)
+
 ## Our New Place
 
 And we got our car, which is actually a new truck. We loaded it up and followed the APs to our house. It's in a nicer neighborhood, 2 stories with 3 bedrooms and 3 baths. So huge compared to what we were thinking.
+
+![Home sweet home](./images/1-our-new-place.jpgg)
 
 We spent the first few hours cleaning the kitchen so we could eat dinner. Elder and Sister Barlow, another senior couple that goes home in 2 months, left us a big box of groceries. I guess they'd been here today getting the place ready for us. So we didn't have to find a store tonight.
 
@@ -49,12 +55,15 @@ We had spaghetti, and it was not good. But only because I, Mom, didn't set a tim
 
 Nobody has hot water in their kitchen here in the Philippines. So we heated water in the electric kettle so we could have hot water to do the dishes.
 
+![Cooking dinner in our new kitchen](./images/1-cooking.png)
+
 ## Settling In
 
 We really don't have any assignments for a few days because as housing coordinators we will be working with Sister Foster, and she will be super busy with departing missionaries and receiving new ones on Thursday. So we get to explore the town and figure out our rhythm and catch up on sleep.
 
-Off to bed right now. Take care of each other and remember we are praying for all of you.
-
 Elder and Sister Ostler  
-aka Granny and Grandpa  
-Mom and Dad
+
+
+## Extra Photos
+Scott eating his last burger in America
+![Lunch during our first days in the Philippines](./images/1-burger.JPG)

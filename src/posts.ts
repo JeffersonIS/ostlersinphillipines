@@ -12,7 +12,7 @@ export interface Post extends PostMeta {
 
 // Vite glob import - reads all .md files from the posts directory
 const postModules = import.meta.glob('./posts/*.md', { query: '?raw', import: 'default', eager: true }) as Record<string, string>
-const postImageModules = import.meta.glob('./posts/**/*.{png,jpg,jpeg,gif,webp,svg}', {
+const postImageModules = import.meta.glob('./posts/**/*.{png,PNG,jpg,JPG,jpeg,JPEG,gif,GIF,webp,WEBP,svg,SVG}', {
   query: '?url',
   import: 'default',
   eager: true,
