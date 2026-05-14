@@ -13,7 +13,7 @@ export function Layout({ children }: { children: ReactNode }) {
             <li><NavLink to="/" end>Home</NavLink></li>
             <li><NavLink to="/blog">Blog</NavLink></li>
             <li><NavLink to="/about">Mission</NavLink></li>
-            <li><NavLink to="/contact">Contact</NavLink></li>
+            {/* <li><NavLink to="/contact">Contact</NavLink></li> */}
           </ul>
         </nav>
       </header>
