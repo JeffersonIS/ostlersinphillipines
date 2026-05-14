@@ -39,7 +39,7 @@ He went and talked to the lady to figure out what we needed to do. The first thi
 
 So we went next door where a guy made the photocopies and charged us 30 pesos. Then we walked over to the medical building where there was a doctor. The guy inside told our member friend that the doctor had left for the day. He would be back tomorrow.
 
-Welp, that's what happens in a foreign country. It reminded me of you guys, our kids' emails, when you were on your missions and how you would get somewhere that took awhile to get to, only to find out you needed another form or the person that needed to handle whatever was not there today. So we'll go back Monday.
+Welp, that's what happens in a foreign country. It reminded me of our kids' emails from their missions and how you would get somewhere that took awhile to get to, only to find out you needed another form or the person that needed to handle whatever was not there today. So we'll go back Monday.
 
 Our new friend, Brother Mejia, is a branch president in the Urdaneta Stake. He said there are only 8 Melchizedek Priesthood holders in his branch. He said they don't have missionaries but really want them in their branch. We'll definitely be putting in a request to President Foster for his ward to have missionaries.
 
@@ -63,11 +63,9 @@ We bought pancake mix because we're almost out and we bought a can of coconut mi
 
 Thursday was new missionary intake day. 21 new missionaries arrived in the mission, 23 including us. The senior missionaries are part of intake day, mostly in the background helping greet, move luggage, set up lunch, help the APs, and being smiling faces.
 
-We met the other senior missionaries in the mission, 2 couples. One couple we hit it off with very well. Elder Shane Barlow is a former BYU QB. Don't know if he started but you boys can research that. Sister Barlow played BYU volleyball and is very musical. So we had lots in common.
+We met the other senior missionaries in the mission, 2 couples. One couple we hit it off with very well. Elder Shane Barlow is a former BYU QB. Sister Barlow played BYU volleyball and is very musical. So we had lots in common.
 
-The outgoing housing coordinator is a piece of work, a lawyer who likes to talk but gets sidetracked. We are trying to learn everything from him and it is painful to get straight precise answers. He has all the housing info stored in his head, but that doesn't do us much good.
-
-It was so fun for us to see the excitement of 42 missionaries, greenies and trainers. We tried to imagine how it was for all you kids on your missions so that was fun.
+It was so fun for us to see the excitement of 42 missionaries, greenies and trainers. We tried to imagine what it must have felt like for our kids on their missions, so that was fun.
 
 ## Somos Bomberos
 
@@ -79,15 +77,13 @@ We were doing laundry that day and putting things away. Scott went upstairs to h
 
 This is not a US street. It's only about 12 feet wide. So the houses are very close. There was a lot of white smoke. Scott was getting a t-shirt on and I put on capris. As we ran down the stairs I told him to put his nametag on.
 
-When we got outside it was a bit chaotic. The women had come out from their houses and were a bit upset and they were standing around. There were a few men running around, not doing much. Scott and I went straight across the street and went down a walkway between two houses. The smoke was soooo thick.
+When we got outside it was a bit chaotic. Neighbors had come out from their houses and were trying to figure out what to do. Scott and I went straight across the street and went down a walkway between two houses. The smoke was soooo thick.
 
 The wind changed direction and we peered over the back fence and could see the flames. We had brought our hose with us. We hooked it up to the spigot there but it barely shot water 10 feet. And it was a tiny trickle. It wasn't going to do anything.
 
 ![Helping spray water through the smoke](./images/2-fire-fire3.JPG)
 
 I saw 3 big 5 gallon buckets sitting by the spigot and so I turned off the hose, unscrewed it, and put a bucket under the spigot. This was going to get more water to the fire. The bucket filled, Scott jumped the fence and took the bucket and ran toward the fire. He threw the bucket on the flames.
-
-![Flames in the tall grass behind the house](./images/2-fire-fire1.JPG)
 
 I was already looking for more spigots to fill the other buckets. I could see that the smoke was going to make it difficult for Scott to make any progress so I ran home and grabbed a kitchen towel and soaked it with water. I ran back and gave it to Scott so he could breathe through the wet towel.
 
@@ -123,21 +119,7 @@ In Sunday School we followed along in Come, Follow Me. They read those passages 
 
 ![The church building in Santa Barbara](./images/2-fire-church.JPG)
 
-Delene and I commented several times and boy, you would think we are general authorities. They seem to weight our comments very heavily and think we are something special. We were told in the MTC to be aware that the locals would view us as representing the Church from SLC, and now I see that.
-
-## P-Day and Housing Training
-
-Today is P-day! We were supposed to get up at 6:30, but we're slackers and didn't get up until a little after 7.
-
-We met with the Carlsons at a missionary apartment. He and Scott were figuring out how to get a hose from a spigot to the washing machine. Cause they fill up the washing machine with the hose. And the end of the hose that starts at the spigot doesn't screw onto the spigot, it just kinda sits there. So strange.
-
-And Sister Carlson was putting up a curtain. She had a strip of velcro and the curtain. She wanted a measuring tape, so the curtain would hang straight. After about 8 minutes I suggested that we just stick one end of the curtain to the wall with the velcro and then eyeball the other end. She thought that was genius.
-
-Holllllyyyyy smokes, what is going on. This is not rocket science people.
-
-After that we went to their house for some training. We were there for about 2.5 hours. The training could have been done in 20 minutes. This guy can talk. He's a lawyer, so he can talk.
-
-We received keys to every apartment in the mission for 3 zones. And now we're responsible for those 3 zones' housing needs. We already had our first request. The sisters that live 5 doors down from us want another shoe rack. I think we can handle this one.
+Delene and I commented several times. We were reminded of what we were told in the MTC: that as senior missionaries, people may see us as representatives of the Church in a unique way. We are trying to be thoughtful about that.
 
 ## S&R and Mango Rice
 

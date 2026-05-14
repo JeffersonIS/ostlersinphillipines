@@ -7,13 +7,13 @@ tag: "Week 1"
 
 We got to the airport in Manila super early Sunday morning. Going through customs was a breeze and the Burrups were waiting outside for us. Traffic in front of the airport was crazy so Susan, I mean Sister Burrup, got out of the car when she saw us and ran up to us. She was so excited and happy to see us.
 
-Elder Burrup eventually was able to reach us and we loaded our mountain of luggage into their car. Sister Burrup brought a Philippine flag with her and she snapped a photo of us holding it. We'll send it later after she sends it to us.
+Elder Burrup eventually was able to reach us and we loaded our mountain of luggage into their car. Sister Burrup brought a Philippine flag with her and she snapped a photo of us holding it.
 
 ![With the Burrups at the Philippines Urdaneta Mission office](./images/1-burrups.png)
 
 ## Sunday in Manila
 
-We got to their apartment and Byron made eggs and toast. Then we drove to church. And wouldn't you know it, it was mostly in Tagalog. Our mission president had told us that the church was trying to emphasize English in the meetings, but maybe this ward didn't get the memo. If that holds true then we've been hoodwinked.
+We got to their apartment and Byron made eggs and toast. Then we drove to church. And wouldn't you know it, it was mostly in Tagalog. Our mission president had told us that the church was trying to emphasize English in the meetings.
 
 Well, all you foreign missionaries know what it's like sitting through sacrament meeting, priesthood, and Relief Society when you don't have a clue what is being said. Then this was followed with a long ward correlation meeting. Scott kept nodding off, as jet lag is real.
 
@@ -23,7 +23,7 @@ We woke up and went down to the Burrups and they made us a yummy mango rice thin
 
 ## Monday Shopping and Driving North
 
-This morning we had fried potato, eggs, tortilla, and salsa. Then we left to do some shopping. They wanted to take us to their favorite mall but it wasn't open until 11 AM, so we went to a store called S&R. It's kind of like Costco. Dad mentioned that in a text.
+This morning we had fried potato, eggs, tortilla, and salsa. Then we left to do some shopping. They wanted to take us to their favorite mall but it wasn't open until 11 AM, so we went to a store called S&R. It's kind of like Costco.
 
 Then we hit the road and drove about 3 hours north to our mission. Our little town has 1 main road and it was super packed when we got here. We tried to find a bank to exchange USD for pesos, but ya had to have an account. So we still have no pesos and a pocket full of Franklins.
 
@@ -31,7 +31,7 @@ Then we hit the road and drove about 3 hours north to our mission. Our little to
 
 We arrived at the mission office and right next door is the mission home where President and Sister Foster live. There were a few missionaries in the office: the APs and 2 sister missionaries that are going home tomorrow.
 
-President and Sister Foster came over and were so happy that we had arrived. We went into the President's office with them and had an interview. We told him about all of you and they told us about their family.
+President and Sister Foster came over and were so happy that we had arrived. We went into the President's office with them and had an interview. We told him about our family and they told us about their family.
 
 And then he gave us our assignments. We have 3 assignments:
 
@@ -47,11 +47,11 @@ So we thought we were only going to be MLS missionaries, but turns out we are go
 
 And we got our car, which is actually a new truck. We loaded it up and followed the APs to our house. It's in a nicer neighborhood, 2 stories with 3 bedrooms and 3 baths. So huge compared to what we were thinking.
 
-![Home sweet home](./images/1-our-new-place.jpgg)
+![Home sweet home](./images/1-our-new-place.jpg)
 
 We spent the first few hours cleaning the kitchen so we could eat dinner. Elder and Sister Barlow, another senior couple that goes home in 2 months, left us a big box of groceries. I guess they'd been here today getting the place ready for us. So we didn't have to find a store tonight.
 
-We had spaghetti, and it was not good. But only because I, Mom, didn't set a timer for the noodles and they were super gushy. But we ate it anyway.
+We had spaghetti, and it was not good. But only because Delene didn't set a timer for the noodles and they were super gushy. But we ate it anyway.
 
 Nobody has hot water in their kitchen here in the Philippines. So we heated water in the electric kettle so we could have hot water to do the dishes.
 

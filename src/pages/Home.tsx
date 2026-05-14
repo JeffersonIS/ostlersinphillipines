@@ -15,7 +15,7 @@ export function Home() {
           </h1>
           <p className="home-subline">
             Scott & Delene were called to Serve in the Urdaneta, Phillipines mission
-            for the Church of Jesus Christ of Latter-day Saints from April 2025 - 2026. 
+            for the Church of Jesus Christ of Latter-day Saints from April 2026 - 2027. 
             Find their weekly updates here.
           </p>
           <div className="home-cta-row">

@@ -17,11 +17,7 @@ At the district meeting the district discussed the talk, mixed in Preach My Gosp
 
 Our mission president has told us we can attend the district meetings and to let the missionaries teach and learn from each other. He really emphasizes this point for a reason.
 
-There is a senior couple here currently and the elder in that couple loves to teach the missionaries. Any chance he gets he will spew his "wisdom" and gospel knowledge on the missionaries. He's socially unaware that he is taking so much time and it's not really what his purpose is here in the mission.
-
-The President is aware of this and tries to get this elder to spend less time with the missionaries and not teach in district meetings or when he is at their apartments fixing things.
-
-So with this in mind we are hyper aware that we don't distract from the missionaries. We try to be super friendly, help them out, give rides where needed, get stuff for them, and try to make it easier so they can focus on the work.
+We are hyper aware that we don't distract from the missionaries. We try to be super friendly, help them out, give rides where needed, get stuff for them, and try to make it easier so they can focus on the work.
 
 I'm trying to find a "Jesus" purpose in my housing assignment and I think it in part is this: If I can make their houses and apartments more liveable and comfortable and provide for them items they need, then this helps them be more focused and better missionaries.
 
@@ -35,7 +31,7 @@ So we started that. 10 pages a day. So far, I'm behind.
 
 We haven't got a solid routine to our days down yet. Some days we are out the door early and don't get back until late and others we are in and out a bunch. Several days we are eating PB&Js in the car on the road or not getting lunch until 3 or later.
 
-It seems like we are busy yet unproductive. I think we will get more efficient once we learn the flow and pattern of the Philippines. And maybe because of the flow and pattern we may never become efficient. This country runs slow and late.
+It seems like we are busy yet unproductive. I think we will get more efficient once we learn the flow and pattern of the Philippines. We are still learning how things work here as the culture is a lot slower and laid back than the states.
 
 ## A Leaking Sink
 
@@ -45,7 +41,7 @@ Then the next day we got a call from the sisters saying the sink was leaking aga
 
 We had our mission repair guy go over and fix it. He reported that it was rats that had created the holes. But we are not sure that would be the case. It didn't really look like a rat chewed it and it was in odd places for chewing, but who knows.
 
-We are finding that the plumbers and repair guys kind of make stuff up about why the plumbing fixtures get clogged or don't work. Who really knows. But anyway, it's now fixed.
+Anyway, it's now fixed.
 
 ![Fixing one of the apartment sinks](./images/3-fix-sink.png)
 
@@ -85,9 +81,9 @@ Turns out they actually needed a lot of things for their apartment: dishes, broo
 
 After we picked up the dresser we headed to Dagupan to meet Elder Carlson for some more training. Then we were on our way to Pozzorubio to fix a broken kitchen sink faucet.
 
-One of the elders in that apartment was super sick. While Elder Ostler was disassembling the faucet, another piece of the setup broke because everything is so old and not taken care of. We drove to City Hardware, got the parts, and then went back to their apartment.
+One of the elders in that apartment was super sick. While Elder Ostler was disassembling the faucet, another piece of the setup broke because the fixtures had seen a lot of use. We drove to City Hardware, got the parts, and then went back to their apartment.
 
-After the sink was fixed Elder Ostler asked if the sick missionary wanted a blessing. This poor kid was pretty green and had the stomach flu or a bug of some sort. His companion and Elder Ostler gave him a blessing and they were thankful that Elder Ostler had offered.
+After the sink was fixed Elder Ostler asked if the sick missionary wanted a blessing. He was new to the mission and had the stomach flu or a bug of some sort. His companion and Elder Ostler gave him a blessing and they were thankful that Elder Ostler had offered.
 
 Lots of travel, lots of interaction with missionaries.
 
@@ -107,12 +103,6 @@ Mother's Day was fantastic. Our ward had a potluck after church and that ward kn
 
 The Relief Society president dished up 2 huge plates for us and when we sat down we realized that she had put something on our plates that the Philippine people love: chicken feet. YIKES. I'm not ready to eat chicken feet yet.
 
-We loved the call with all of you yesterday, Monday morning here. It was such a joy watching all of the grandkids.
-
-We miss all of you and we love you all so much.
-
 ![A windy stop by the beach](./images/3-beach.jpeg)
-
-Love,
 
 Elder and Sister Ostler
