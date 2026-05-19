@@ -1,7 +1,7 @@
 import { useParams, Link, Navigate } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
-import { getAllPosts, getPost, formatDate, resolvePostImage } from '../posts'
+import { getAllPosts, getPost, formatDate, isVideoAsset, resolvePostAsset } from '../posts'
 
 export function BlogPost() {
   const { slug } = useParams<{ slug: string }>()
@@ -51,9 +51,20 @@ export function BlogPost() {
               <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
                 components={{
-                  img: ({ src, alt }) => (
-                    <img src={resolvePostImage(post.slug, src)} alt={alt || ''} loading="lazy" />
-                  ),
+                  img: ({ src, alt }) => {
+                    const assetSrc = resolvePostAsset(post.slug, src)
+
+                    if (isVideoAsset(src)) {
+                      return (
+                        <video className="post-video" controls preload="metadata">
+                          <source src={assetSrc} />
+                          {alt || 'Video'}
+                        </video>
+                      )
+                    }
+
+                    return <img src={assetSrc} alt={alt || ''} loading="lazy" />
+                  },
                 }}
               >
                 {post.content}

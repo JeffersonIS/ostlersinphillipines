@@ -36,8 +36,8 @@ export function Contact() {
             Internet and schedule permitting, we will reply when we can.
           </p>
           <address>
-            Ostlers in the Phillipines<br />
-            Urdaneta, Phillipines<br />
+            Ostlers in the Philipines<br />
+            Urdaneta, Philipines<br />
             hello@example.com
           </address>
         </aside>

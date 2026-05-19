@@ -17,6 +17,11 @@ const postImageModules = import.meta.glob('./posts/**/*.{png,PNG,jpg,JPG,jpeg,JP
   import: 'default',
   eager: true,
 }) as Record<string, string>
+const postVideoModules = import.meta.glob('./posts/**/*.{mp4,MP4,webm,WEBM,mov,MOV}', {
+  query: '?url',
+  import: 'default',
+  eager: true,
+}) as Record<string, string>
 
 function parseFrontmatter(raw: string): { meta: Record<string, string>; content: string } {
   const fmMatch = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/)
@@ -68,7 +73,7 @@ export function getPost(slug: string): Post | null {
   }
 }
 
-export function resolvePostImage(slug: string, src?: string): string | undefined {
+export function resolvePostAsset(slug: string, src?: string): string | undefined {
   if (!src) return undefined
   if (/^(https?:)?\/\//.test(src) || src.startsWith('data:') || src.startsWith('/')) return src
 
@@ -78,7 +83,15 @@ export function resolvePostImage(slug: string, src?: string): string | undefined
     `./posts/${cleanedSrc}`,
   ]
 
-  return candidates.map(path => postImageModules[path]).find(Boolean) || src
+  return candidates.map(path => postImageModules[path] || postVideoModules[path]).find(Boolean) || src
+}
+
+export function isVideoAsset(src?: string): boolean {
+  return Boolean(src?.match(/\.(mp4|webm|mov)(\?.*)?$/i))
+}
+
+export function resolvePostImage(slug: string, src?: string): string | undefined {
+  return resolvePostAsset(slug, src)
 }
 
 export function formatDate(dateStr: string): string {

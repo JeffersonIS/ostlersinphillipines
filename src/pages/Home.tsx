@@ -9,12 +9,12 @@ export function Home() {
     <div className="container--wide">
       <div className="home-hero">
         <div className="home-hero-copy">
-          <span className="home-eyebrow">Called to Serve · Urdaneta, Phillipines</span>
+          <span className="home-eyebrow">Called to Serve · Urdaneta, Philipines</span>
           <h1 className="home-headline">
-            Urdaneta, <em>Phillipines</em>
+            Urdaneta, <em>Philipines</em>
           </h1>
           <p className="home-subline">
-            Scott & Delene were called to Serve in the Urdaneta, Phillipines mission
+            Scott & Delene were called to Serve in the Urdaneta, Philipines mission
             for the Church of Jesus Christ of Latter-day Saints from April 2026 - 2027. 
             Find their weekly updates here.
           </p>
