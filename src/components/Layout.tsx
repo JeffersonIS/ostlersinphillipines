@@ -7,7 +7,7 @@ export function Layout({ children }: { children: ReactNode }) {
       <header className="site-header">
         <nav className="nav-inner" aria-label="Site navigation">
           <Link to="/" className="site-title">
-            Ostlers in the <span>Philipines</span>
+            Ostlers in the <span>Philippines</span>
           </Link>
           <ul className="nav-links">
             <li><NavLink to="/" end>Home</NavLink></li>
@@ -23,7 +23,7 @@ export function Layout({ children }: { children: ReactNode }) {
       </main>
 
       <footer className="site-footer">
-        <p>© {new Date().getFullYear()} Ostlers in the Philipines · Urdaneta Mission · April 2026 - 2027</p>
+        <p>© {new Date().getFullYear()} Ostlers in the Philippines · Urdaneta Mission · April 2026 - 2027</p>
       </footer>
     </div>
   )
