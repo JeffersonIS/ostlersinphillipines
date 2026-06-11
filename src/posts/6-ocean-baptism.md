@@ -57,7 +57,7 @@ The Church there is currently a group. The Dela Cruzes have been very influentia
 
 ## Piano on the Beach
 
-One cool thing: as Scott was playing the piano on the beach, he kept thinking about his grandmother, who taught piano. He wondered if she ever imagined that one of her piano students would someday serve a mission and play the piano for a baptism on a beach in the Philippines.
+One cool thing: as Scott was playing the piano on the beach, he kept thinking about his mother, Nellie, who taught him piano. He wondered if she ever imagined that one of her piano students would someday serve a mission and play the piano for a baptism on a beach in the Philippines.
 
 It was a tender thought. We sang about 10 songs while people were changing, including every verse of every song. Even after everyone was done changing, we kept singing the songs in the program.
 
