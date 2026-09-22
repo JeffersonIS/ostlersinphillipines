@@ -1,7 +1,7 @@
 import { useParams, Link, Navigate } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
-import { getAllPosts, getPost, formatDate, isVideoAsset, resolvePostAsset } from '../posts'
+import { getAllPosts, getPost, formatDate, getYouTubeVideoId, isVideoAsset, resolvePostAsset } from '../posts'
 
 export function BlogPost() {
   const { slug } = useParams<{ slug: string }>()
@@ -64,6 +64,26 @@ export function BlogPost() {
                     }
 
                     return <img src={assetSrc} alt={alt || ''} loading="lazy" />
+                  },
+                  a: ({ href, children, ...linkProps }) => {
+                    const videoId = getYouTubeVideoId(href)
+
+                    if (videoId) {
+                      return (
+                        <span className="post-youtube-embed">
+                          <iframe
+                            src={`https://www.youtube-nocookie.com/embed/${videoId}`}
+                            title="YouTube video"
+                            loading="lazy"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowFullScreen
+                            referrerPolicy="strict-origin-when-cross-origin"
+                          />
+                        </span>
+                      )
+                    }
+
+                    return <a href={href} {...linkProps}>{children}</a>
                   },
                 }}
               >

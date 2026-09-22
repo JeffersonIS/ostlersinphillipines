@@ -90,6 +90,36 @@ export function isVideoAsset(src?: string): boolean {
   return Boolean(src?.match(/\.(mp4|webm|mov)(\?.*)?$/i))
 }
 
+/**
+ * Returns a safe YouTube video ID for URLs that authors can paste into post
+ * Markdown. Only known YouTube URL shapes are accepted so arbitrary URLs are
+ * never turned into embedded frames.
+ */
+export function getYouTubeVideoId(url?: string): string | undefined {
+  if (!url) return undefined
+
+  try {
+    const parsed = new URL(url)
+    const hostname = parsed.hostname.toLowerCase().replace(/^www\./, '')
+    const pathParts = parsed.pathname.split('/').filter(Boolean)
+    let videoId: string | null = null
+
+    if (hostname === 'youtu.be') {
+      videoId = pathParts[0] || null
+    } else if (hostname === 'youtube.com' || hostname === 'm.youtube.com') {
+      if (parsed.pathname === '/watch') {
+        videoId = parsed.searchParams.get('v')
+      } else if (['embed', 'shorts'].includes(pathParts[0])) {
+        videoId = pathParts[1] || null
+      }
+    }
+
+    return videoId && /^[A-Za-z0-9_-]{11}$/.test(videoId) ? videoId : undefined
+  } catch {
+    return undefined
+  }
+}
+
 export function resolvePostImage(slug: string, src?: string): string | undefined {
   return resolvePostAsset(slug, src)
 }

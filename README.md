@@ -1,73 +1,22 @@
-# React + TypeScript + Vite
+# Ostlers in the Philippines
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React and Vite blog is published through GitHub Pages.
 
-Currently, two official plugins are available:
+## Publishing a post
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+1. Open [Pages CMS](https://app.pagescms.org/) and sign in with a GitHub account that has write access to this repository.
+2. Select **Posts**, then create a post or open one to edit it. Saving commits the change to `main`.
+3. Use the image tool in the post editor to upload and insert photos. Images are stored in `src/posts/images/` and their Markdown links are added automatically.
+4. To add a video, paste an unlisted YouTube URL where it should appear in the post. Standard `youtube.com`, `youtu.be`, and YouTube Shorts URLs display as embedded players on the site.
+5. The deploy workflow builds and publishes the site after each save. Allow a few minutes for the change to appear.
 
-## React Compiler
+Videos are hosted by unlisted YouTube, not stored in this repository. Existing local MP4/WebM videos remain supported, but new videos should use YouTube.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Local development
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```sh
+npm ci
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+Run `npm run build` to check the production build locally.

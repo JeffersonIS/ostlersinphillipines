@@ -1,0 +1,44 @@
+media:
+  - name: images
+    label: Images
+    input: src/posts/images
+    output: images
+    extensions: [jpg, jpeg, png, gif, webp, svg]
+    rename: safe
+
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/posts
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      primary: title
+      sort: date
+      order: desc
+    operations:
+      create: true
+      delete: true
+      rename: true
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Publication date
+        type: date
+        required: true
+      - name: description
+        label: Short description
+        type: text
+        required: true
+      - name: tag
+        label: Tag
+        type: string
+        required: false
+      - name: body
+        label: Post
+        type: rich-text
+        required: true
