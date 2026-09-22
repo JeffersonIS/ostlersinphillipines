@@ -6,7 +6,6 @@ date: "2026-08-24"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 14"
 
 ---
 
@@ -34,7 +33,7 @@ Our testimony this week is that redemption is real, God is more than real, and J
 
 Love
 
-## Extra Photos
+## Photos
 
 ![Photo from the week](./images/14-20260821_131815.jpg)
 
@@ -45,5 +44,4 @@ Love
 ![Photo from the week](./images/14-20260825_080943.jpg)
 
 ![Photo from the week](./images/14-IMG_9276.jpeg)
-
 

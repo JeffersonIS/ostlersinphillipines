@@ -2,7 +2,6 @@
 title: "Moving Missionaries"
 date: "2026-07-13"
 description: "Moving missionary apartments, zone conference, collecting junk, a lease miracle, piano class, and rain-soaked errands."
-tag: "Week 12"
 ---
 
 Dear Family & Friends:

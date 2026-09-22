@@ -2,7 +2,6 @@
 title: "Apartment Hunting Miracles"
 date: "2026-06-23"
 description: "A week of apartment hunting, cleaning, errands, missionary needs, and small miracles on the streets of Pangasinan."
-tag: "Week 9"
 ---
 
 Hello Family:

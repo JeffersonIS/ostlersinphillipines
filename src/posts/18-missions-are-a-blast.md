@@ -6,7 +6,6 @@ date: "2026-09-21"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 18"
 
 ---
 
@@ -33,8 +32,7 @@ Morning Scripture study has been awesome. I’ve definitely studied and read mor
 
 The missionaries in this mission are top notch. Our assignment as housing coordinators has put us in THE BEST situation to be able to interact and see the missionaries on a daily basis. I was concerned that being an MLS missionary we would rarely see the missionaries. But the Housing Coordinator assignment has put us directly in every single missionaries path in this mission. Yesterday I think we saw 6 companionships walking through their teaching area as we were driving around the mission. To be 18, 19, 20+ years old and to dedicate 2 years or 18 months of your life to spread the gospel is amazing to see - the sacrifice that these young adults have made is beautiful and we are loving being a part of their journey. And they make our journey through this mission life extremely rich.
 
-## Extra Photos
-
+## Photos
 ![Photo from the week](./images/18-20260917_125843.jpg)
 
 ![Photo from the week](./images/18-20260918_165302.jpg)
@@ -44,5 +42,4 @@ The missionaries in this mission are top notch. Our assignment as housing coordi
 ![Photo from the week](./images/18-IMG_9441.jpeg)
 
 ![Photo from the week](./images/18-received_1068106969251674.jpeg)
-
 

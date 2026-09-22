@@ -6,7 +6,6 @@ date: "2026-08-03"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 11"
 
 ---
 
@@ -69,7 +68,7 @@ Are you all saying prayers? If you've let this amazing form of communication wit
 
 Love you all,
 
-## Extra Photos
+## Photos
 
 ![Photo from the week](./images/11-20260721_091007.jpg)
 
@@ -80,4 +79,3 @@ Love you all,
 ![Photo from the week](./images/11-20260730_182157.jpg)
 
 ![Photo from the week](./images/11-IMG_9199.jpeg)
-

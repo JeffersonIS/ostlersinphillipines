@@ -2,7 +2,6 @@
 title: "Pigs & Chickens"
 date: "2026-05-27"
 description: '"This mission experience so far is nothing like we imagined. In our wildest dreams we did not think we would be doing any of this stuff on a mission. Luckily, crazy drivers, crazy traffic, hot weather, PB&Js on the side of the road, and packed schedules do not bother us at all...We vacation like this."'
-tag: "Week 5"
 ---
 
 Hey Fam - here's the deal. When y'all were on your mission, your parents sent you an email letting you know what was happening at home. On Pday - you read that email. You looked forward to that email. And after you read that email you sent an email back to the parents.

@@ -2,7 +2,6 @@
 title: "Ocean Baptism"
 date: "2026-06-02"
 description: "A week of apartment inspections, mango stops, coastal roads, and six baptisms in the ocean near Agno."
-tag: "Week 6"
 ---
 
 It has been a week like no other.

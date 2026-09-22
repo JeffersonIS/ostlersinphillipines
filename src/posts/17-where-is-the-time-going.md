@@ -6,7 +6,6 @@ date: "2026-09-14"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 17"
 
 ---
 
@@ -31,7 +30,7 @@ One of the pictures we are sending is Delene and I doing a P-Day activity - gett
 
 The picture of Delene across the flooded road is us making an emergency call to a Sister's apartment.  This whole area is flooded but the sisters still go out and work.  Since Delene's boots are only ankle high we had to park next to a tall sidewalk so she could step out of the truck and not get gross flood water in her boots. - and the reason for the visit?  The sisters accidentally locked a bedroom door and neither they nor the landlord had a key for the door.  Most apartments and houses have keyed locks on all doors inside the house - bedroom and bathroom doors.  So we had to pry the knob off - completely destroying it and then install a new knob - and for this job I had left my channel locks somewhere and had to do it with pliers and screwdrivers.
 
-## Extra Photos
+## Photos
 
 ![Photo from the week](./images/17-20260909_123734.jpg)
 
@@ -42,5 +41,4 @@ The picture of Delene across the flooded road is us making an emergency call to 
 ![Photo from the week](./images/17-20260910_141608.jpg)
 
 ![Photo from the week](./images/17-IMG_3947.JPG)
-
 

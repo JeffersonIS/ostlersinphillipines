@@ -2,7 +2,6 @@
 title: "First Transfer Complete"
 date: "2026-06-16"
 description: "Moving to Santa Barbara, transfer week, apartment hunting, water pumps, rain, mangos, and life on the roads of Pangasinan."
-tag: "Week 8"
 ---
 
 Hello Everyone:

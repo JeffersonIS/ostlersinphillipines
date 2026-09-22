@@ -2,7 +2,6 @@
 title: "Arrival in Urdaneta"
 date: "2026-04-27"
 description: "Our first days in the Philippines: Manila, the Burrups, church in Tagalog, the mission office, our assignments, and our new home."
-tag: "Week 1"
 ---
 
 We got to the airport in Manila super early Sunday morning. Going through customs was a breeze and the Burrups were waiting outside for us. Traffic in front of the airport was crazy so Susan, I mean Sister Burrup, got out of the car when she saw us and ran up to us. She was so excited and happy to see us.
@@ -63,7 +62,7 @@ We really don't have any assignments for a few days because as housing coordinat
 
 Elder and Sister Ostler  
 
+## Photos
 
-## Extra Photos
 Scott eating his last burger in America
 ![Lunch during our first days in the Philippines](./images/1-burger.JPG)

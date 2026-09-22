@@ -2,7 +2,6 @@
 title: "District Meeting and Housing Work"
 date: "2026-05-11"
 description: "District meeting, apartment hunting, late-night lockouts, repairs, blessings, cookies, and Mother's Day in the ward."
-tag: "Week 3"
 ---
 
 This week started out with a district meeting. We are part of a district of 4 elders and 2 sisters. The zone leaders are in our district.

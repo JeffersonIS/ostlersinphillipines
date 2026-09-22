@@ -34,10 +34,6 @@ content:
         label: Short description
         type: text
         required: true
-      - name: tag
-        label: Tag
-        type: string
-        required: false
       - name: body
         label: Post
         type: rich-text

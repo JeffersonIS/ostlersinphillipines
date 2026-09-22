@@ -6,7 +6,6 @@ date: "2026-07-20"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 10"
 
 ---
 
@@ -47,7 +46,7 @@ Eggs for sale at the market
 Guy bringing dinner home on his motorcycle
 Bath in a bucket
 
-## Extra Photos
+## Photos
 
 ![Photo from the week](./images/10-10-1.jpg)
 
@@ -58,4 +57,3 @@ Bath in a bucket
 ![Photo from the week](./images/10-10-4.jpeg)
 
 ![Photo from the week](./images/10-20260714_080910.jpg)
-

@@ -6,7 +6,6 @@ date: "2026-08-17"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 13"
 
 ---
 
@@ -38,7 +37,7 @@ We love all of you and miss you everyday.  Say your prayers and hug someone that
 
 Love
 
-## Extra Photos
+## Photos
 
 ![Photo from the week](./images/13-20260811_162940.jpg)
 
@@ -49,5 +48,4 @@ Love
 ![Photo from the week](./images/13-20260815_190710.jpg)
 
 ![Photo from the week](./images/13-20260820_190558.jpg)
-
 

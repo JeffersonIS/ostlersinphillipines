@@ -2,7 +2,6 @@
 title: "The Door Knob & the Cat Miracle"
 date: "2026-06-29"
 description: "The mission split, apartment inspections, a broken door knob, a small chisel miracle, a late-night cat rescue, rain-soaked inspections, and things you will not see in the states."
-tag: "Week 10"
 ---
 
 Absolutely LOVED all of the emails and videos and photos. Thank you so much Amy, Jefferson, Benson, Jackson & Katie, Harrison and Mom. Amanda?? Wilson?? You guys alive?? We'd love to hear from you.

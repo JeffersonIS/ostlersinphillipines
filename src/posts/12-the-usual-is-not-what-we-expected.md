@@ -6,7 +6,6 @@ date: "2026-08-10"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 12"
 
 ---
 
@@ -32,7 +31,7 @@ We drove to Calasiao and Dagupan today. The place is underwater. They've declare
 
 Lots of love from the Philippines
 
-## Extra Photos
+## Photos
 
 ![Photo from the week](./images/12-20260805_151019.jpg)
 
@@ -43,5 +42,4 @@ Lots of love from the Philippines
 ![Photo from the week](./images/12-20260810_112407.jpg)
 
 ![Photo from the week](./images/12-IMG_9222.jpeg)
-
 

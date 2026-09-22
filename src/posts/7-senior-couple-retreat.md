@@ -2,7 +2,6 @@
 title: "Senior Couple Retreat"
 date: "2026-06-09"
 description: "A senior missionary retreat in Bolinao, transfer week, baptisms, apartment setup, and a few tender road-side miracles."
-tag: "Week 7"
 ---
 
 We have had a busy but also fun and relaxing week. The relaxing part was that we were able to go on a senior missionary couple retreat. The mission president invited all the senior couples to go to Bolinao for 2 nights. We stayed at a resort on the beach. The rooms were simple, but the location was great. It was on the beach of the South China Sea.

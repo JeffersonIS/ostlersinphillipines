@@ -2,7 +2,6 @@
 title: "Fire!"
 date: "2026-05-04"
 description: "We became firefighters for a day, mission miracles have started, some trainings, and the good grocery store"
-tag: "Week 2"
 ---
 
 We've been in the Philippines 1 week, and what a week it's been!

@@ -2,7 +2,6 @@
 title: "Rain & Mangos"
 date: "2026-05-18"
 description: "Wild rain, unreal mangos, improving apartments & amazing missionaries"
-tag: "Week 4"
 ---
 
 It’s hot here! So hot. But we rarely spend any time outside. We still sweat like crazy when we’re inside because most places don’t have AC. Our church building doesn’t have AC either. During sacrament meeting, all of the ceiling fans are turned on high and the windows are open. There are about 20 fans up there, but you still sit and sweat — gotta love it. And while we sweat, we sit in stupor because we can’t understand a blessed thing since it’s all in Tagalog. Even the sacrament prayers. Luckily, we know where to find them and can follow along.

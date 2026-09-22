@@ -2,7 +2,6 @@
 title: "Things You Will Not See"
 date: "2026-07-06"
 description: "A few things from the Philippines that you will not see in the states."
-tag: "Week 11"
 ---
 
 Some things you WILL NOT see in the states.

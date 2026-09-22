@@ -6,7 +6,6 @@ date: "2026-09-07"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 16"
 
 ---
 
@@ -35,7 +34,7 @@ Well, we could write so much more but it's late here, and we are beyond tired an
 
 Love to all
 
-## Extra Photos
+## Photos
 
 ![Photo from the week](./images/16-20260902_094120.jpg)
 
@@ -46,5 +45,4 @@ Love to all
 ![Photo from the week](./images/16-20260903_175525.jpg)
 
 ![Photo from the week](./images/16-20260903_175811.jpg)
-
 

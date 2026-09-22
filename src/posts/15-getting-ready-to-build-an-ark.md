@@ -6,7 +6,6 @@ date: "2026-08-31"
 
 description: "A weekly mission update from the Philippines."
 
-tag: "Week 15"
 
 ---
 
@@ -39,8 +38,7 @@ Welp - we’d better get some sleep. Moving all of the things and setting up 2 n
 
 Love ya all.
 
-## Extra Photos
-
+## Photos
 ![Photo from the week](./images/15-20260826_111801.jpg)
 
 ![Photo from the week](./images/15-20260828_162340.jpg)
@@ -50,5 +48,4 @@ Love ya all.
 ![Photo from the week](./images/15-IMG_9307.jpeg)
 
 ![Photo from the week](./images/15-IMG_9337.jpeg)
-
 
